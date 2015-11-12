@@ -6,3 +6,5 @@ System.out.prinlt(ss +"");
 
 sorry
 
+study
+
