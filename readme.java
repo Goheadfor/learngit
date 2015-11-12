@@ -13,3 +13,5 @@ need to learn hard.
 how can be Good 
 
 i want to be stronger
+
+learn learn learn
