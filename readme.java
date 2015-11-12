@@ -7,4 +7,7 @@ System.out.prinlt(ss +"");
 sorry
 
 study
+
 need to learn hard.
+
+i want to be stronger
