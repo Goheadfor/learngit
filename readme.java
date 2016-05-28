@@ -1,4 +1,5 @@
 asdfasint sl = 0;
+hahaint sl = 0;
 int so = 1;
 int ss = so + sl;
 asfasdf
